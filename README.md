@@ -1,4 +1,4 @@
-# FineTuning_of_LLMs
+# Medical-LLM-Fine-Tuning
 
 [Hugging Face Hub](https://huggingface.co/docs/hub/index)
 The Hugging Face Hub is a platform with over `350k models`, `75k datasets`, and `150k demo apps (Spaces)`, all open source and publicly available, in an online platform where people can easily collaborate and build ML together. The Hub works as a central place where anyone can explore, experiment, collaborate, and build technology with Machine Learning.
